@@ -12,6 +12,6 @@
 
 >Data Structures and Algorithms: :  [Go to Data Structure page](./Data%20StructuresAndAlgorithms.md)
 
->Data Structures and Algorithms: :  [Go to Data Structure page](./Data%20StructuresAndAlgorithms.md)
+>class01 :  [Go to Data Structure page](./class01.md)
 ---
 
