@@ -10,6 +10,8 @@
 
 >Practice in the Terminal:  [Go to Terminal page](./terminal.md)
 
->Data Structures and Algorithms: :  [Go to Terminal page](./Data%20StructuresAndAlgorithms.md)
+>Data Structures and Algorithms: :  [Go to Data Structure page](./Data%20StructuresAndAlgorithms.md)
+
+>Data Structures and Algorithms: :  [Go to Data Structure page](./Data%20StructuresAndAlgorithms.md)
 ---
 
