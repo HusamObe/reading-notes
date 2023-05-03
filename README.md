@@ -1,17 +1,11 @@
 # reading-notes
-```
-### This README file is used to document and highlight my new knowledge during **_Python_** course.  ### 	
-```
----
-## Here are some of the subject that will be covered during the course.
 
->Introduction to SQL: [Go to SQL Assignment page](./sql.md)
+This README file is used to document and highlight my new knowledge during the Python course.
 
-
->Practice in the Terminal:  [Go to Terminal page](./terminal.md)
-
->Data Structures and Algorithms: :  [Go to Data Structure page](./Data%20StructuresAndAlgorithms.md)
-
->class01 :  [Go to class01 page](./class01.md)
----
-
+| Topic | Description |
+|-------|-------------|
+| [Introduction to SQL](./sql.md) | Covers the basics of SQL and its use in data analysis |
+| [Practice in the Terminal](./terminal.md) | Provides hands-on practice using the command line interface |
+| [Data Structures and Algorithms](./Data%20StructuresAndAlgorithms.md) | Discusses data structures and algorithms used in programming |
+| [Class 01](./class01.md) | Covers the the summary of Class01 |
+| [Class 02](./class02.md) | Covers the the summary of Class02 |
