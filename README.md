@@ -9,3 +9,6 @@ This README file is used to document and highlight my new knowledge during the P
 | [Data Structures and Algorithms](./Data%20StructuresAndAlgorithms.md) | Discusses data structures and algorithms used in programming |
 | [Class 01](./class01.md) | Covers the the summary of Class01 |
 | [Class 02](./class02.md) | Covers the the summary of Class02 |
+| [Class 03](./class03.md) |  Read & Write Files/Exceptions |
+|  |  |
+
