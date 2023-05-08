@@ -10,5 +10,5 @@ This README file is used to document and highlight my new knowledge during the P
 | [Class 01](./class01.md) | Covers the the summary of Class01 |
 | [Class 02](./class02.md) | Covers the the summary of Class02 |
 | [Class 03](./class03.md) |  Read & Write Files/Exceptions |
-|  |  |
+| [Class 04](./class04.md)| Classes and Objects  |
 
