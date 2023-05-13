@@ -12,5 +12,6 @@ This README file is used to document and highlight my new knowledge during the P
 | [Class 03](./class03.md) |  Read & Write Files/Exceptions |
 | [Class 04](./class04.md)| Classes and Objects  |
 | [Class 05](./class05.md)| Big(O) & Linked Lists  |
+| [Class 06](./class06.md)| Random Module & Risk Analysis & Test Coverage  |
 
 
