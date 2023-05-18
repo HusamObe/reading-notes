@@ -14,5 +14,6 @@ This README file is used to document and highlight my new knowledge during the P
 | [Class 05](./class05.md)| Big(O) & Linked Lists  |
 | [Class 06](./class06.md)| Random Module & Risk Analysis & Test Coverage  |
 | [Class 07](./class07.md)| Python Scope  |
+| [Class 08](./class08.md)| Stacks and Queues  |
 
 
