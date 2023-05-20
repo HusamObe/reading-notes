@@ -15,5 +15,6 @@ This README file is used to document and highlight my new knowledge during the P
 | [Class 06](./class06.md)| Random Module & Risk Analysis & Test Coverage  |
 | [Class 07](./class07.md)| Python Scope  |
 | [Class 08](./class08.md)| Stacks and Queues  |
+| [Class 09](./class09.md)| List Comprehensions  |
 
 
