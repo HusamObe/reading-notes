@@ -19,5 +19,6 @@ This README file is used to document and highlight my new knowledge during the P
 | [Class 10](./class10.md)| Dunder method & Statistics Module  |
 | [Class 11](./class11.md)|  Jupyter Lab &  NumPy library  |
 | [Class 12](./class12.md)|  Pandas  |
+| [Class 13](./class13.md)|  Linear Regressions  |
 
 
