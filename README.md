@@ -21,5 +21,6 @@ This README file is used to document and highlight my new knowledge during the P
 | [Class 12](./class12.md)|  Pandas  |
 | [Class 13](./class13.md)|  Linear Regressions  |
 | [Class 14](./class14.md)|  Data Visualization  |
+| [Class 15](./class15.md)|  Trees  |
 
 
