@@ -22,5 +22,6 @@ This README file is used to document and highlight my new knowledge during the P
 | [Class 13](./class13.md)|  Linear Regressions  |
 | [Class 14](./class14.md)|  Data Visualization  |
 | [Class 15](./class15.md)|  Trees  |
+| [Class 16](./class16.md)|  Serverless Functions  |
 
 
