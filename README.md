@@ -24,4 +24,5 @@ This README file is used to document and highlight my new knowledge during the P
 | [Class 15](./class15.md)|  Trees  |
 | [Class 16](./class16.md)|  Serverless Functions  |
 | [Class 17](./class17.md)|  Web Scraping  |
+| [Class 18](./class18.md)|  Intro to Django  |
 
