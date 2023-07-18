@@ -27,4 +27,5 @@ This README file is used to document and highlight my new knowledge during the P
 | [Class 18](./class18.md)|  Intro to Django  |
 | [Class 19](./class19.md)|  Django Models  |
 | [Class 20](./class20.md)|  Django CRUD and Forms  |
+| [Class 21](./class21.md)|  Django Custom User  |
 
