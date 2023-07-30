@@ -30,3 +30,4 @@ This README file is used to document and highlight my new knowledge during the P
 | [Class 21](./class21.md)|  Django Custom User  |
 | [Class 22](./class22.md)|  Docker Containerization  |
 | [Class 23](./class23.md)|  Permissions & Postgresql  |
+| [Class 24](./class24.md)|  Authentication & Production Server  |
