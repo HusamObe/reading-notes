@@ -31,3 +31,4 @@ This README file is used to document and highlight my new knowledge during the P
 | [Class 22](./class22.md)|  Docker Containerization  |
 | [Class 23](./class23.md)|  Permissions & Postgresql  |
 | [Class 24](./class24.md)|  Authentication & Production Server  |
+| [Class 25](./class25.md)|  API Deployment  |
