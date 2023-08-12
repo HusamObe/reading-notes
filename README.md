@@ -33,3 +33,4 @@ This README file is used to document and highlight my new knowledge during the P
 | [Class 24](./class24.md)|  Authentication & Production Server  |
 | [Class 25](./class25.md)|  API Deployment  |
 | [Class 26](./class26.md)|  Graph  |
+| [Class 27](./class27.md)|  React  |
