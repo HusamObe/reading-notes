@@ -36,3 +36,4 @@ This README file is used to document and highlight my new knowledge during the P
 | [Class 27](./class27.md)|  React  |
 | [Class 28](./class28.md)|  React - Lifting State  |
 | [Class 29](./class29.md)|  React -  useContext  |
+| [Class 30](./class30.md)|  React -  Dynamic/static Routes & Deployment  |
